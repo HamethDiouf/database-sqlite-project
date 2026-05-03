@@ -3,8 +3,8 @@
 *.db
 
 # Fichiers de base de données spécifiques
-db.sqlite
-db (2).sqlite
+*db.sqlite
+*db (2).sqlite
 
 # Exécutables Windows
 *.exe
@@ -13,8 +13,11 @@ db (2).sqlite
 *.log
 
 # OS
-.DS_Store
-Thumbs.db
+*.DS_Store
+*Thumbs.db
 
 # VS Code
 .vscode/
+
+*.sqlite3_analyze.exe
+*.sqlite3_analyze (2).exe
