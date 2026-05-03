@@ -1,0 +1,20 @@
+# SQLite database
+*.sqlite
+*.db
+
+# Fichiers de base de données spécifiques
+db.sqlite
+db (2).sqlite
+
+# Exécutables Windows
+*.exe
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
